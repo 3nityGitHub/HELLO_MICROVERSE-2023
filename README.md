@@ -33,31 +33,41 @@
 
 ## Getting Started
 To get a local copy up and running on your machine, follow these simple steps:
-Prerequisites
+### Prerequisites
 In order to run this project you need:
 
-Setup
+### Setup
 Clone this repository to your desired folder:
 
-Install
+### Install
 Install this project with:
 
-Usage
+### Usage
 To run the project, execute the following command:
 
-Run tests
+### Run tests
 To run tests, run the following command:
 
-Deployment
+### Deployment
 You can deploy this project using:
 
 
 ## Authors
 
-👤 **Author1**
+👤 Rapheal Okonta
 
 - GitHub: (https://github.com/3nityGitHub)
 - Twitter: (https://twitter.com/tbarijohnson)
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features 
+
+- Add a header with navigation links
+- Add backgroung to make it look more attractive
+- Make it more accessible and responsive
+
+
 
 ## 🤝 Contributing
 
@@ -78,5 +88,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
